@@ -1,4 +1,4 @@
-#一个Mybatis学习项目
+# 一个Mybatis学习项目
 [视频地址](https://www.bilibili.com/video/av69742084?p=2)
 # 环境准备
 - mysql5.7，[如何使用docker搭建mysql](https://juejin.im/post/5dbd29dbf265da4d044e37d4)
