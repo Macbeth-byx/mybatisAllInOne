@@ -22,6 +22,5 @@ p27-最后 -> mybatis-09
 # IDEA中Mybatis 插件推荐
 我也不知道，最好的IDEA mybatis插件是什么，有知道请告诉我。
 # Springboot整合Mybatis-plus
-TODO  
-感觉官网文档介绍的够详细了
+项目mybatisplus
 
